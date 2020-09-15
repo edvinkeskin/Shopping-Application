@@ -1,0 +1,2 @@
+nayra,nayra123,23.12,PLANE,VIOLET,JACK
+herman,keskin30,30.65,PINKIE,BEAR
